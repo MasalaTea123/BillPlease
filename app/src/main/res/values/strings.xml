@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Bill Please</string>
+    <string name="display_total_bill">Display total bill</string>
+    <string name="display_each_pays">Display each pays</string>
+    <string name="amount">Amount</string>
+    <string name="numPax">Num of pax</string>
+    <string name="svsDisabled">NO SVS</string>
+    <string name="svsEnabled">SVS</string>
+    <string name="gstDisabled">NO GST</string>
+    <string name="gstEnabled">GST</string>
+    <string name="discount">Discount(%)</string>
+    <string name="display">textTotalBills</string>
+    <string name="textTotalBills">display</string>
+    <string name="textEachPays">display</string>
+    <string name="split">split</string>
+    <string name="reset">reset</string>
+</resources>
